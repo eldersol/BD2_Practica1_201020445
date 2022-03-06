@@ -1,0 +1,5 @@
+Nombre: Elder Tojin
+Carnet: 201020445
+
+Link repositorio:
+	https://github.com/eldersol/BD2_Practica1_201020445
